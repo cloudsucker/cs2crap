@@ -14,7 +14,7 @@ setup(
     author="cls",
     author_email="ferjenkill@gmail.com",
     description="Инструментарий для парсинга, автоматизации поиска выгод и торговли предметами Counter Strike 2",
-    url="https://github.com/maxfraid/cs2crap",
+    url="https://github.com/cloudsucker/cs2crap",
     packages=find_packages(),
     install_requires=requirements,
 )
