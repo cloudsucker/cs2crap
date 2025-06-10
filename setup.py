@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 requirements = [
     "pandas==2.1.4",
     "beautifulsoup4==4.12.2",
-    "requests==2.32.0",
+    "requests==2.32.4",
     "colorama==0.4.6",
     "aiogram==3.3.0",
 ]
